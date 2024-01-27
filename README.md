@@ -1,0 +1,1 @@
+Projeto do CURSO DE PROGRAMAÇÃO, feito em Python usando o framework Flask e o Bootstrap para formatação dos templates html. O projeto cria uma loja virtual com cadastro de clientes, produtos e carrinho de compras. No projeto é usado o banco de dados SQLite, que em produção deve ser trocado por outro como Postgresql ou mySQL
