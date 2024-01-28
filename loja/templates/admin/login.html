@@ -8,7 +8,7 @@
         <div class="col-md-4"></div>
         <div class="col-md-4">
             <div class="text-center text-success h1">Fazer login</div>         
-        
+            {% include '_messages.html' %}
             <form method='post' enctype="multipart/form-data"> 
                 <div>                              
                     {{ render_field(form.email, class="form-control") }}
